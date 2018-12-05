@@ -21,4 +21,4 @@ It means that if pad is portrait then it will use compact Width and Regular heig
 
 
 ## Demo GIF
-![](https://imgur.com/a/PkzZ9zp)
+![](gif/ipad_rotate.gif)
